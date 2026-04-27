@@ -8,7 +8,7 @@ import tailwindcss from "@tailwindcss/vite";
 // https://astro.build/config
 export default defineConfig({
   site: "https://public-blog-alpha.vercel.app",
-  base: "/",
+  base: "",
   integrations: [
     swup({
       theme: ["overlay", { direction: "to-top" }],
