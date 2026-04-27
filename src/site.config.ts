@@ -69,11 +69,11 @@ export type SiteConfig = {
 
 const siteConfig: SiteConfig = {
     website: 'https://public-blog-git-main-rdelillos-projects.vercel.app/',
-    title: 'Robinosaur',
-    description: 'A blog of a developer who learned to draw.',
+    title: 'Robinosaur.xyz',
+    description: 'A VFX developer passionate about image crafting and storytelling.',
     image: {
         src: '/space-ahead-preview.jpeg',
-        alt: 'Space Ahead ✨ - A minimal space-inspired personal blog template, created by Siddhesh Thadeshwar.'
+        alt: 'A VFX developer passionate about image crafting and storytelling.'
     },
     headerNavLinks: [
         {
@@ -145,7 +145,7 @@ const siteConfig: SiteConfig = {
         formUrl: '#'
     },
     blog: {
-        description: "Read about my space adventures, explorations and the aliens I've met on my journeys."
+        description: "Read about my tips, experiments and all the failures I've had on my journeys."
     },
     postsPerPage: 2,
     recentPostLimit: 6
