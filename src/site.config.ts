@@ -78,15 +78,15 @@ const siteConfig: SiteConfig = {
     headerNavLinks: [
         {
             text: 'Home',
-            href: withBase('/')
+            href: "https://public-blog-alpha.vercel.app"
         },
         {
             text: 'Blog',
-            href: withBase('/blog')
+            href: "https://public-blog-alpha.vercel.app/blog"
         },
         {
             text: 'Tags',
-            href: withBase('/tags')
+            href: withBase('https://public-blog-alpha.vercel.app/tags')
         },
     ],
     footerNavLinks: [
