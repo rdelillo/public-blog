@@ -68,9 +68,9 @@ export type SiteConfig = {
 };
 
 const siteConfig: SiteConfig = {
-    website: 'https://example.com',
-    title: 'Space Ahead',
-    description: 'A minimal space-inspired personal blog template built with Astro.js and Tailwind CSS, by Siddhesh Thadeshwar',
+    website: 'https://public-blog-git-main-rdelillos-projects.vercel.app/',
+    title: 'Robinosaur',
+    description: 'A blog of a developer who learned to draw.',
     image: {
         src: '/space-ahead-preview.jpeg',
         alt: 'Space Ahead ✨ - A minimal space-inspired personal blog template, created by Siddhesh Thadeshwar.'
@@ -88,69 +88,33 @@ const siteConfig: SiteConfig = {
             text: 'Tags',
             href: withBase('/tags')
         },
-        {
-            text: 'About',
-            href: withBase('/about')
-        },
-        {
-            text: 'Contact',
-            href: withBase('/contact')
-        }
     ],
     footerNavLinks: [
-        {
-            text: 'About',
-            href: withBase('/about')
-        },
-        {
-            text: 'Contact',
-            href: withBase('/contact')
-        },
-        {
-            text: 'RSS Feed',
-            href: withBase('/rss.xml')
-        },
-                {
-            text: 'Sitemap',
-            href: withBase('/sitemap-index.xml')
-        }
     ],
     socialLinks: [
-        {
-            text: 'Dribbble',
-            href: 'https://dribbble.com/'
-        },
-        {
-            text: 'Instagram',
-            href: 'https://instagram.com/'
-        },
-        {
-            text: 'X/Twitter',
-            href: 'https://twitter.com/'
-        }
     ],
     hero: {
-        eyebrowText: 'Galaxy of Adventures',
-        title: 'Space Ahead ✨',
-        text: "Written by Astro-naut Sid, a space explorer at Beyond Earth.",
+        eyebrowText: '',
+        title: 'Hello There ✨',
+        text: ".",
         image: {
             src: '/assets/images/pixeltrue-space-discovery.svg',
             alt: 'A person sitting at a desk in front of a computer'
         },
         actions: [
-            {
-                text: 'Read Now',
-                href: withBase('/blog')
-            },
-            {
-                text: 'Subscribe',
-                href: '#subscribe'
-            }
+//            {
+//                text: 'Read Now',
+//                href: withBase('/blog')
+//            },
+//            {
+//                text: 'Subscribe',
+//                href: '#subscribe'
+//              }
         ]
     },
     about: {
         title: 'About',
-        text: 'Space Ahead is a blog about space exploration and travel. It is written by Astro-naut Sid, a space explorer at Beyond Earth. Sid is known for his love of adventure and his insatiable curiosity about the universe. He has explored countless planets, discovered new life forms, and made friends with aliens along the way. 🚀',
+        text: 'TL;DR',
     },
     contactInfo: {
         title: 'Contact',
@@ -184,7 +148,7 @@ const siteConfig: SiteConfig = {
         description: "Read about my space adventures, explorations and the aliens I've met on my journeys."
     },
     postsPerPage: 2,
-    recentPostLimit: 3
+    recentPostLimit: 6
 };
 
 export default siteConfig;
