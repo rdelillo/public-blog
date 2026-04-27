@@ -96,7 +96,7 @@ const siteConfig: SiteConfig = {
     hero: {
         eyebrowText: '',
         title: 'Hello There ✨',
-        text: "I’m a VFX developer passionate about image crafting and storytelling. \nI’m just documenting my journey at my own pace, strictly for the fun of it.\n\nIf you find something here that entertains you or makes you smile, that’s a win.\nIf not, at least I’ll know where I left my notes!.",
+        text: "",
         image: {
             src: '/assets/images/pixeltrue-space-discovery.svg',
             alt: 'A person sitting at a desk in front of a computer'
