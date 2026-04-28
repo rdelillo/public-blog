@@ -7,7 +7,7 @@ import tailwindcss from "@tailwindcss/vite";
 
 // https://astro.build/config
 export default defineConfig({
-  site: "https://public-blog-alpha.vercel.app",
+  site: "https://robinosaur.xyz",
   base: "",
   integrations: [
     swup({

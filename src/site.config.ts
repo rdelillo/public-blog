@@ -68,7 +68,7 @@ export type SiteConfig = {
 };
 
 const siteConfig: SiteConfig = {
-    website: 'https://public-blog-git-main-rdelillos-projects.vercel.app/',
+    website: 'https://robinosaur.xyz',
     title: 'Robinosaur.xyz',
     description: 'A VFX developer passionate about image crafting and storytelling.',
     image: {
@@ -78,15 +78,15 @@ const siteConfig: SiteConfig = {
     headerNavLinks: [
         {
             text: 'Home',
-            href: "https://public-blog-alpha.vercel.app"
+            href: withBase('/')
         },
         {
             text: 'Blog',
-            href: "https://public-blog-alpha.vercel.app/blog"
+            href: withBase('/blog')
         },
         {
             text: 'Tags',
-            href: withBase('https://public-blog-alpha.vercel.app/tags')
+            href: withBase('/tags')
         },
     ],
     footerNavLinks: [
