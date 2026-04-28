@@ -1,7 +1,6 @@
 ---
 title: "Hello (world)"
 description: "I’m starting this blog for a very selfish reason..."
-author: "Robinosaur"
 image:
   url: "../../assets/images/blabla2.png"
   alt: "hello_world_all_alone"

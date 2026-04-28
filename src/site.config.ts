@@ -139,11 +139,7 @@ const siteConfig: SiteConfig = {
             }
         ]
     },
-    subscribe: {
-        title: 'Subscribe to Space Ahead',
-        text: 'One update per week. All the latest stories in your inbox.',
-        formUrl: '#'
-    },
+    subscribe: undefined,
     blog: {
         description: "Read about my tips, experiments and all the failures I've had on my journeys."
     },
