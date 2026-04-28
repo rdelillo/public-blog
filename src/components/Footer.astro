@@ -30,21 +30,7 @@ const currentYear = new Date().getFullYear();
       <!-- Thank you! -->
     </div>
   </div>
-  <div
-    class="footer-secondary flex flex-col sm:flex-row items-center justify-between gap-6 min-w-full"
-  >
-    <div class="flex flex-row gap-2 items-center justify-start text-balance">
-      <span>&copy; {currentYear}</span>
-      {siteConfig.title}. All rights reserved.
-    </div>
-    <div class="flex flex-row gap-4 items-center justify-end-safe">
-      {
-        siteConfig.socialLinks?.map((link) => (
-          <a href={link.href} title={link.text} target="_blank">
-            {link.text}
-          </a>
-        ))
-      }
-    </div>
+  <div class="flex flex-col items-center justify-center text-center text-xs text-gray-400/50 dark:text-gray-500/50 py-4">
+    <span>&copy; {currentYear} {siteConfig.title}. All rights reserved.</span>
   </div>
 </footer>
