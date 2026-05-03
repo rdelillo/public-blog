@@ -1,5 +1,5 @@
 ---
-title: "The Day I Created 10,000+ Empty Folders"
+title: "I broke Prod"
 description: "I broke prod. Multiple times. Here's my recipe for getting away with it."
 image:
   url: "../../assets/images/how_to_break_prod/how-to-break-prod-cover.jpg"
