@@ -6,7 +6,7 @@ import { sortItemsByDateDesc, withBase } from "../utils/helpers";
 import PostCardPreview from "../components/PostCardPreview.astro";
 import Button from "../components/Button.astro";
 import { Image } from "astro:assets";
-import heroImage from "../assets/images/pixeltrue-space-discovery.svg";
+import heroImage from "../assets/images/introduction.png";
 import ArrowRight from "../icons/ArrowRight.astro";
 
 const allPosts = (await getCollection("blogs")).sort(sortItemsByDateDesc);
@@ -55,8 +55,9 @@ const allPosts = (await getCollection("blogs")).sort(sortItemsByDateDesc);
         src={heroImage}
         alt={"Astronaut in space"}
         width={400}
-        height={300}
+        height={400}
       />
+      <p class="text-xs text-center opacity-50 mt-2 italic">My drawing skills — Pixar, call me.</p>
     </div>
   </div>
   <div class="page-content">
