@@ -1,5 +1,5 @@
 ---
-title: "How I brought a studio's network to its knees"
+title: "The Day I Created 10,000+ Empty Folders"
 description: "I broke prod. Multiple times. Here's my recipe for getting away with it."
 image:
   url: "../../assets/images/how_to_break_prod/how-to-break-prod-cover.jpg"
@@ -31,7 +31,6 @@ My first instinct was to go hide in the bathroom I was so embarrassed — but I 
 
 Not only did I get through it, I even learned a thing or two along the way.
 
-**How to break prod and get away with it.**
 
 ---
 
