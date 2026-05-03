@@ -35,7 +35,7 @@ Not only did I get through it, I even learned a thing or two along the way.
 
 ---
 
-**1. Own your shit**
+## 1. Own your shit
 
 ![Step 1 - Don't hide](../../assets/images/how_to_break_prod/how-to-break-prod-step1-dont-hide.jpg)
 
@@ -46,7 +46,7 @@ Knowing where was this script, how to stop it saved hours of precious troublesho
 
 ---
 
-**2. Help to fix it**
+## 2. Help to fix it
 
 ![Step 2 - Help](../../assets/images/how_to_break_prod/how-to-break-prod-step2-help.jpg)
 
@@ -54,7 +54,7 @@ Give all the info, help as much as you can. Explain what you were trying to do, 
 
 ---
 
-**3. Acknowledge the consequences**
+## 3. Acknowledge the consequences
 
 ![Step 3 - Acknowledge](../../assets/images/how_to_break_prod/how-to-break-prod-step3-acknowledge.jpg)
 
@@ -69,7 +69,7 @@ It didn't break the bank, but it was my way of thanking them for the heavy damag
 
 ---
 
-**4. Learn**
+## 4. Learn
 
 ![Step 4 - Don't break stuff too often](../../assets/images/how_to_break_prod/how-to-break-prod-step4-dont-break-stuff.jpg)
 

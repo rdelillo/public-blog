@@ -1,6 +1,7 @@
 @import url("animate.css");
 @import url("fonts.css");
 @import "tailwindcss";
+@plugin "@tailwindcss/typography";
 
 /* 0. color variables & fonts */
 /* 1. html elements */
