@@ -43,6 +43,6 @@ I recently had to deal with contractors, banks, and a lot of day-to-day professi
 
 (BTW, those weren't the GenZ folks everyone seems to complain about.)
 
-Turns out I'm not imagining things. Customer experience benchmarks have been trending down since COVID, and anyone who's dealt with a contractor lately can probably feel it in their bones.
+Turns out I'm not imagining things. [Forrester's Customer Experience Index](https://www.forrester.com/blogs/cx-index-2025-results/) has been trending down since COVID, hitting historic lows in 2025, and anyone who's dealt with a contractor lately can probably feel it in their bones.
 
 And that's the good news: the bar has never been lower, which means it's never been easier to clear it. You don't need a fancier strategy or a smarter prompt. Just finish the thing. Become the "let me take care of that" guy.
