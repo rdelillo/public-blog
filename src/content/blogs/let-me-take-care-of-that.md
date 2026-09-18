@@ -2,6 +2,9 @@
 title: "Let Me Take Care of That"
 description: "Why the rarest skill in 2026 isn't strategy, AI prompting, or deep expertise — it's basic, unglamorous follow-through."
 pubDate: 2026-09-18
+image:
+  url: "../../assets/images/let_me_take_care_of_that/let-me-take-care-of-that-cover.png"
+  alt: "A cartoon worker holding a sign that reads 'Not my problem'"
 tags:
   ["career", "tips", "opinion"]
 ---
