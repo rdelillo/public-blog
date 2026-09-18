@@ -25,7 +25,7 @@ I get it.
 
 Sounds painfully simple, right? That’s because it is, you bold little over-thinker.
 
-I found a random video where President Barack Obama was asked what advice he’d give to young strugglers wanting to make an actual impact.
+I found [a random video](https://youtube.com/shorts/MJ5Qz-oDDGY?si=r1Oj0yRFPKVUjXzV) where President Barack Obama was asked what advice he’d give to young strugglers wanting to make an actual impact.
 
 He just laid down the plain truth:
 
