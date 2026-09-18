@@ -3,18 +3,14 @@ title: "Let Me Take Care of That"
 description: "Why the rarest skill in 2026 isn't strategy, AI prompting, or deep expertise — it's basic, unglamorous follow-through."
 pubDate: 2026-09-18
 tags:
-  ["career", "productivity", "opinion"]
+  ["career", "tips", "opinion"]
 ---
 
 Welcome, young apprentice.
 
-So, you’ve decided to stand out in your career. You reckless fool...
+So, you've decided to stand out in your career. You reckless fool...
 
-I'm not gonna reveal this treasure for free.. am I ?
-
-Allright, I've stumbled upon this obscure scroll compiling the darkest secrets of the greatest masters to ever walk the Earth, pure knowledge.
-
-In my infinite generosity (and loud, unbearable arrogance), I’m giving it to you.
+Allright, I've stumbled upon an obscure scroll compiling the darkest secrets of the greatest masters to ever walk the Earth, pure knowledge. And in my infinite generosity (and loud, unbearable arrogance), I'm giving it to you for free.
 
 OK, you're ready.
 
@@ -40,10 +36,10 @@ But surprisingly, only a few people actually take ownership of a task and push i
 
 And then it struck me...
 
-I recently had to deal with contractors, banks, and a lot of day-to-day professionals, and noticed the exact same tragicomic pattern. 80% of them were not getting it done.. or at least not without me repeating, triple-checking, or having to fix stuff afterward.
+I recently had to deal with contractors, banks, and a lot of day-to-day professionals, and noticed the exact same tragicomic pattern. Most of them were not getting it done — or at least not without me repeating, triple-checking, or fixing stuff afterward.
 
-(BTW, those were not those GenZ that everyone seems to complain about).
+(BTW, those weren't the GenZ folks everyone seems to complain about.)
 
-And studies actually seem to back this up since COVID — just have a look at Forrester's Customer Experience Index (2022–2025).
+Turns out I'm not imagining things. Customer experience benchmarks like Forrester's have been trending down since COVID, and anyone who's dealt with a contractor lately can probably feel it in their bones.
 
-And NOW the good news: it's never been easier to stand out from the crowd. Become the "let me take care of this" guy.
+And that's the good news: the bar has never been lower, which means it's never been easier to clear it. You don't need a fancier strategy or a smarter prompt. Just finish the thing. Become the "let me take care of that" guy.
